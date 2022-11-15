@@ -4,7 +4,7 @@
   "description": "async js landing page",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d async-landing"
   },
   "repository": {
     "type": "git",
