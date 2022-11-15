@@ -1,0 +1,22 @@
+{
+  "name": "platzi-js-landing",
+  "version": "1.0.0",
+  "description": "async js landing page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AravenaCG/async-landing.git"
+  },
+  "author": "Aravena Cristian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AravenaCG/async-landing/issues"
+  },
+  "homepage": "https://github.com/AravenaCG/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
